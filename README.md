@@ -5,7 +5,7 @@ iOS 条形码 code39 生成器
 
 <img src="https://github.com/Hank-Zhong/Code39Generator/blob/master/code39.png" width="40%" height="40%">
 
-使用简单，只需一行代码：
+使用简单，只需将"HYCode39.h"和"HYCode39.m"文件添加到项目中，导入头文件并且使用一行代码便搞定：
 
     #import "HYCode39.h"
   
