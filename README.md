@@ -1,5 +1,5 @@
 # Code39Generator
-![](https://img.shields.io/badge/platform-iOS%208.0+-blue.svg) ![](https://img.shields.io/badge/language-Objective--C-brightgreen.svg) [![License](https://img.shields.io/cocoapods/l/HYConditionsSelector.svg?style=flat)](https://github.com/Hank-Zhong/HYConditionsSelector/blob/master/LICENSE)
+![](https://img.shields.io/badge/platform-iOS%208.0+-blue.svg) ![](https://img.shields.io/badge/language-Objective--C-brightgreen.svg) [![License](https://img.shields.io/cocoapods/l/HYConditionsSelector.svg?style=flat)](https://github.com/Hank-Zhong/Code39Generator/blob/master/LICENSE)
 
 iOS 条形码 code39 生成器
 
